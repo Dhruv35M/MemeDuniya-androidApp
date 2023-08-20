@@ -10,10 +10,7 @@ Welcome to MemeDuniya, your gateway to a world of humor and shared moments. Imme
 ## Table of Contents
 
 - [Features](#features)
-- [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -22,9 +19,11 @@ Welcome to MemeDuniya, your gateway to a world of humor and shared moments. Imme
 - 💌 **Share the Laughter**: Easily share your favorite memes with friends and family through various messaging platforms.
 - 🌐 **API-Powered**: Memes are sourced dynamically from APIs, ensuring a fresh and ever-changing collection.
 
+## Usage
 
-Experience MemeDuniya in action! Immerse yourself in the world of humorous content and sharing possibilities.
+1. Launch the MemeDuniya app on your Android device.
+2. Swipe left or right to navigate through the meme collection.
+3. Tap the "Share" button to spread the laughter with your friends and family.
 
-## Installation
 
-1. Download the MemeDuniya APK from the [Releases](https://github.com/yourusername/MemeDuniya/releases) section.
+Share laughter, swap smiles, and brighten up days with MemeDuniya. Install the app and dive into a world of memes and mirth! 🎉🤣
